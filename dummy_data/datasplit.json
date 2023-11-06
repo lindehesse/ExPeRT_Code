@@ -1,0 +1,1 @@
+{"test": {"files": ["patient_1", "patient_2"], "ages": [20, 30]}, "Fold_0": {"train": {"files": ["patient_1", "patient_2"], "ages": [20, 30]}, "val": {"files": ["patient_1", "patient_2"], "ages": [20, 30]}}}

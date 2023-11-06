@@ -1,0 +1,6 @@
+{
+    "num_train_epochs": 5,
+    "push_epochs" : [3],
+    "slice_indices_train": [80,90],
+    "slice_indices_test": [90]
+}

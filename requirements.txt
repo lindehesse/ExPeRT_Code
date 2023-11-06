@@ -1,0 +1,17 @@
+# conda create --name expert_public python==3.10
+# conda install pytorch==2.1 torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
+
+# then install all pip packages with: pip install -r requirements.txt
+pytorch-lightning==1.9.3
+imageio==2.22.2
+opencv-python==4.6.0.66
+mlflow==1.29.0
+scikit-learn==1.1.2
+enforce-typing==1.0.0.post1
+dataclasses_json==0.5.7
+scikit-image==0.19.3
+Augmentor==0.2.10
+matplotlib==3.8
+seaborn==0.12.1
+dash==2.6.2
+SimpleITK==2.2.0
